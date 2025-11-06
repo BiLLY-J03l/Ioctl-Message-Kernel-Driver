@@ -19,7 +19,7 @@ This project demonstrates Windows kernel driver development with:
 - Administrator privileges for testing
 - Windows 10/11 VM
 
-### Runtime Library Configuration
+### Configuration
 
 **Important**: Set Runtime Library to "Multi-threaded (/MT)" for static linking:
 - Project Properties → C/C++ → Code Generation → Runtime Library
