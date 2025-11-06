@@ -9,13 +9,6 @@ This project demonstrates Windows kernel driver development with:
 - **Kernel Driver (`MyDriver.c`)**: Creates a device object `\Device\AmerDriver` and handles IOCTL requests
 - **User-Mode Client (`client_for_driver.c`)**: Sends messages to the driver via `DeviceIoControl`
 
-## Features
-
-- **Kernel-User Communication**: Secure IOCTL-based communication
-- **Device Interface**: Standard WDM driver with symbolic link
-- **Message Printing**: Driver prints messages to kernel debugger
-- **Buffer Validation**: Proper input validation and error handling
-
 ## Build Instructions
 
 ### Prerequisites
