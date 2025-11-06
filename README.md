@@ -26,3 +26,7 @@ This project demonstrates Windows kernel driver development with:
 - Enable Test Signing on VM:
 
       bcdedit /set testsigning on
+
+### Execution
+
+https://www.youtube.com/watch?v=22qTDRgvljk
